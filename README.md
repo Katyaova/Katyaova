@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Katyaova... I am a student in South East Technological University studying Creative Computing.
-- 👀 with an interest in UXD, Programming and other creative computing aspects.
-- 🌱 I’m currently learning UXD, Graphic Design, Creative Programming, Communication Skills, Computer Systems and Creative Media.
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me by email 'Puhhova@hotmail.com'.
+# Hi, I'm Catherine (Katya) Puhhova 👋
 
-<!---
-Katyaova/Katyaova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 BSc (Hons) Information Technology Management Graduate from South East Technological University
+
+I'm interested in Business Analysis, Data Analytics, Business Intelligence and UX Research, with experience across SQL, Tableau, database design, cloud computing and user-centred design.
+
+## Technical Skills
+
+• SQL & MySQL
+• MongoDB
+• Tableau & Tableau Prep
+• HTML, CSS & JavaScript
+• AWS & Microsoft Azure
+• Oracle Database
+• Git & GitHub
+
+## Featured Projects
+
+📊 Business Intelligence Dashboard
+🔐 UX Cybersecurity Research
+☁️ AWS Disaster Recovery
+🗄️ Database Design & Administration
+🌐 Web Development Portfolio
+
+📫 Contact
+Email: ...
+LinkedIn: ...
+Portfolio: ...
