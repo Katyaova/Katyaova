@@ -16,13 +16,13 @@ I'm interested in Business Analysis, Data Analytics, Business Intelligence and U
 
 ## Featured Projects
 
-📊 Business Intelligence Dashboard
-🔐 UX Cybersecurity Research
-☁️ AWS Disaster Recovery
-🗄️ Database Design & Administration
-🌐 Web Development Portfolio
+Business Intelligence Dashboard
+UX Cybersecurity Research
+AWS Disaster Recovery
+Database Design & Administration
+Web Development Portfolio
 
-📫 Contact
-Email: ...
-LinkedIn: ...
-Portfolio: ...
+Contact
+Email: Puhhova@hotmail.com
+LinkedIn: www.linkedin.com/in/catherine-puhhova-907b67253
+Creative Portfolio: [...](https://20093778.wixsite.com/katyaportfolio)
