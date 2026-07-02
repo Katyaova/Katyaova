@@ -25,4 +25,4 @@ Web Development Portfolio
 Contact
 Email: Puhhova@hotmail.com
 LinkedIn: www.linkedin.com/in/catherine-puhhova-907b67253
-Creative Portfolio: [...](https://20093778.wixsite.com/katyaportfolio)
+Creative Portfolio: https://catherineph.framer.website/
